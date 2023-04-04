@@ -11,7 +11,7 @@ require (
 	github.com/google/go-github/v50 v50.2.0
 	github.com/gregjones/httpcache v0.0.0-20190611155906-901d90724c79
 	github.com/ossf/scorecard/v4 v4.5.0
-	github.com/rhysd/actionlint v1.6.23
+	github.com/rhysd/actionlint v1.6.24
 	github.com/rs/zerolog v1.29.0
 	github.com/shurcooL/githubv4 v0.0.0-20210725200734-83ba7b4c9228
 	gocloud.dev v0.29.0
